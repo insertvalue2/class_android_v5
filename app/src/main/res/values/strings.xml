@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecretDiary</string>
+    <string name="str_change_password">변경할 패스워드를 입력해주세요</string>
+</resources>
